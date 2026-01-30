@@ -75,11 +75,6 @@ LED'ler lineer bir dizilimle, yatay eksende yolu tarayacak şekilde konumlandır
 ## Gelecek Planları & Geliştirmeler
 Sistemi daha profesyonel ve ticari standartlara yaklaştırmak için aşağıdaki geliştirmeler planlanmaktadır:
 
-- [ ] **CAN Bus Entegrasyonu:** Aracın hız ve direksiyon verisinin sisteme dahil edilerek virajlarda ışığın yönlendirilmesi.
-- [ ] **Adaptif Viraj Aydınlatması (AFS):** Direksiyon açısına göre ışık hüzmesinin sağa/sola kaydırılması (Servo veya dijital kaydırma ile).
-- [ ] **Hıza Duyarlı Modlar:** 
-    - *Şehir İçi:* Daha geniş açı, kısa menzil.
-    - *Otoyol:* Daha dar açı, uzun menzil.
 - [ ] **Yüksek Çözünürlüklü Matrix:** 12 LED yerine 32 veya 64 LED kullanılarak daha "pürüzsüz" ve yüksek çözünürlüklü maskeleme yapılması.
 - [ ] **Mobil Uygulama Kontrolü:** Bluetooth üzerinden sistem hassasiyet ayarları ve test modlarının kontrol edilmesi.
 

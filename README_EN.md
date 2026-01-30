@@ -75,11 +75,6 @@ The LEDs are arranged in a linear array to scan the road horizontally.
 ## Future Improvements Roadmap
 To bring the system closer to professional and commercial standards, the following improvements are planned:
 
-- [ ] **CAN Bus Integration:** Incorporating vehicle speed and steering angle data to direct light dynamically during turns.
-- [ ] **Adaptive Front-lighting System (AFS):** Physically or digitally shifting the light beam based on steering angle.
-- [ ] **Speed-Sensitive Modes:** 
-    - *City Mode:* Wider angle, shorter range.
-    - *Highway Mode:* Narrower angle, longer range.
 - [ ] **High-Resolution Matrix:** Increasing from 12 LEDs to 32 or 64 LEDs for smoother and higher-resolution masking.
 - [ ] **Mobile App Control:** Bluetooth LE interface for adjusting system sensitivity and running calibration tests.
 
