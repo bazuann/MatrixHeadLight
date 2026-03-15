@@ -2,10 +2,7 @@
 
 > Language: **Türkçe** | [English](README_EN.md)
 
-<p align="center">
-  <img src="docs/1.JPG" width="49%" />
-  <img src="docs/2.JPG" width="49%" />
-</p>
+![Project Banner](docs/3.jpg)
 
 Bu proje, Audi’nin Matrix Headlight teknolojisinden ilham alınarak geliştirilmiş, karşı şeritten gelen araçları algılayıp ilgili ışık huzmesini otomatik olarak kapatan **akıllı ve adaptif bir far sistemidir**.
 
