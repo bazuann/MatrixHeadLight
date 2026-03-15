@@ -2,7 +2,10 @@
 
 > Language: **English** | [Türkçe](README.md)
 
-![Project Banner](docs/images/optical_layout.jpeg)
+<p align="center">
+  <img src="docs/1.JPG" width="49%" />
+  <img src="docs/2.JPG" width="49%" />
+</p>
 
 This project is an **intelligent and adaptive matrix headlight system** inspired by Audi’s Matrix LED technology. It detects oncoming vehicles and automatically dims the corresponding light segment to prevent glare while maintaining optimal illumination for the rest of the road.
 
